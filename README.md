@@ -56,6 +56,8 @@
 Проект разработал студент второго курса KDG в рамках учебного задания по ООП
 
 ## Лицензия
+This project is distributed under the MIT license. You are free to use, modify, and redistribute the code as long as you provide attribution.
+```
 MIT License
 
 Copyright (c) 2025 KDG
@@ -77,6 +79,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 ---
 
